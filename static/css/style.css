@@ -1,0 +1,39 @@
+body{
+   background-color: rgb(238, 200, 192); 
+}
+.my-input{
+    width: auto;
+}
+.add-h1{
+    text-align: center;
+    font-weight: 900;
+    color: firebrick;
+    font-family: cursive;
+}
+
+.book-item {
+    display: flex;
+    align-items: center;
+}
+
+.book-item img {
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
+
+.book-details {
+    flex: 1; 
+}
+.book-id {
+    margin-left: 20px; 
+    font-weight: 900;
+}
+
+.delete-link {
+    margin-left: auto; 
+    margin-right: 30px; 
+}
+.custom-input {
+    width: 400px;
+    margin-bottom: 20px;
+}
